@@ -22,5 +22,5 @@ var eggPrice = 10;
 // division
 var money = 500;
 var player = 10;
-var eachPlayer = money / player;
+
 console.log(eachPlayer);
